@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://github.com/PushpenderIndia/nekros/blob/master/images/Text_LOGO.png" alt="NekRos Logo" Logo" />
-</p>
-
 <h1 align="center">NekRos - Ransomeware</h1>
-<p align="center">
-    <a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-3.7-green.svg">
-  </a>
-  <a href="https://github.com/PushpenderIndia/nekros/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
-  </a>
-  <a href="https://github.com/PushpenderIndia/nekros/releases">
-    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
-  </a>
-    <a href="https://github.com/PushpenderIndia/nekros">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
-  </a>
-</p>
 
              
                         This Awesome Project will Just Blow Your Mind, The Most Scarest Ransomeware.
@@ -28,7 +10,6 @@ Project is made for good purpose, unethical use is prohibited, misuse of this pr
 It is the responsibility of end user to use this Software ethically and for testing purpose only : )
 
 ## NekRos - THE MOST Scariest Ransomeware
-![](/images/Banner.jpg)
 
 ## Disclaimer
 <p align="center">
@@ -209,26 +190,6 @@ Attack is Divided Into **3 Stages**, Stages are Completed By **Main** Program (m
 	|____C:\Users\USERNAME\Desktop
 ```
 
-## ScreenShots
-
-#### Main GUI Window of NekRos Ransomeware
-![](/images/nekros_ransomeware.PNG)
-
-#### Check Encryped Files Log ~ GUI Window
-![](/images/Check_LOG_Window.PNG)
-
-#### Decryptor ~ GUI Window
-![](/images/Decryptor.PNG)
-
-#### Database Manager ~ For Attacker 
-![](/images/db_manager.PNG)
-
-#### Website Asking for Machine ID 
-![](/images/website1.png)
-
-#### Website showing Result
-![](/images/website2.png)
-
 ## Usage 
 
 * Upload Website Folder's Content to your server and update **get_decrypt_code.php** with right creds. present in **website/php/**
@@ -256,16 +217,3 @@ $ python main.py
 #Run reverse_attack.py like this
 $ python reverse_attack.py
 ```
-
-## Contribute
-
-Currently this repo is maintained by me (Pushpender Singh).
-
-Please Contribute this Project, and make this Project **THE BEST**, All pull request will be accepted if they were worthy fro this project : )
-
-
-## Contact 
-singhpushpender250@gmail.com 
-
-## More Features Coming Soon...
-
