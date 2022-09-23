@@ -2,3 +2,4 @@ pycryptodome==3.9.2
 mysql-connector-python
 pyinstaller
 configparser==4.0.2
+protobuf>=3.20.2 # not directly required, pinned by Snyk to avoid a vulnerability
